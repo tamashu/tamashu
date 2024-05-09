@@ -1,4 +1,4 @@
-### Hi there 👋
+[![typograssy](https://typograssy.deno.dev/api?text=Welcome%20tamashu%20GitHub%20%20&l1=000&l2=000&l3=000&l4=000&speed=100)](https://github.com/kawarimidoll/typograssy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tamashu)](https://github.com/ryo-ma/github-profile-trophy) 
 
